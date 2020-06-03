@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grocery</string>
+    <string name="show_the_list">Show the list</string>
+    <string name="grocery_list_display">Grocery List Display</string>
+</resources>
